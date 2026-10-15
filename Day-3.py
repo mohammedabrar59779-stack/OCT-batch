@@ -1,0 +1,10 @@
+RAMA_HIEGHT=1.3
+RAJA_HIEGHT=1.7
+if RAMA_HIEGHT>RAJA_HIEGHT:
+  print('RAMA IS TALLER')
+else:
+  print('RAJA IS TALLER')
+
+
+
+  
