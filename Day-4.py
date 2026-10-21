@@ -1,4 +1,4 @@
-#cpu-hours=int(input("enter number of cpu hours:"))
+#cpu_hours=int(input("enter number of cpu hours:"))
 #stroage=int(input("enter stroage in gb:"))
 #data-transfer=int(input("enter data transfer in gb:"))
 #cpu-cost=cpu-hours=5
