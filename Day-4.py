@@ -1,13 +1,14 @@
 cpu-hours=int(input("enter number of cpu hours:"))
 stroage=int(input("enter stroage in gb:"))
-data-transfer=int(input("enter data transfer in gb:"))
+data_transfer=int(input("enter data transfer in gb:"))
 cpu-cost=cpu-hours=5
-stroage-cost=stroage*2
-data-transfer-cost=data transfer*1
- total amount=cpu-cost+data_transfer-Cost
- if cpu-hours>100:
-   use 
-   print(total-amount)                                                                                                 
+stroage_cost=stroage*2
+data_transfer_cost=data_transfer*1
+total_amount=cpu_cost+stroage_cost+data_transfer_Cost
+if cpu_hours>100:
+    print(total_amount:500)
+-else:
+   print(total_amount)                                                                                                 
 
 
     uptime=97.5
