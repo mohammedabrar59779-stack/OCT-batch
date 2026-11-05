@@ -18,7 +18,7 @@ p=sys.getsizeof(lst)
 print(p)
 
 
-
+import sys
 tup=[1,2,23,55]
 x=sys.getsizeof(tup)
 print(p)
